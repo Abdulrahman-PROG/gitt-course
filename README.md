@@ -1,1 +1,3 @@
 # gitt-course
+
+##project notes
